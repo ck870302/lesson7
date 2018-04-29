@@ -12,6 +12,7 @@
 		B8166037208F5786009AA27B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8166035208F5786009AA27B /* Main.storyboard */; };
 		B8166039208F5787009AA27B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8166038208F5787009AA27B /* Assets.xcassets */; };
 		B816603C208F5787009AA27B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B816603A208F5787009AA27B /* LaunchScreen.storyboard */; };
+		B8166044208F59ED009AA27B /* ColorChangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8166043208F59ED009AA27B /* ColorChangeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B8166038208F5787009AA27B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B816603B208F5787009AA27B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B816603D208F5787009AA27B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8166043208F59ED009AA27B /* ColorChangeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorChangeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B8166031208F5786009AA27B /* AppDelegate.swift */,
 				B8166033208F5786009AA27B /* ViewController.swift */,
 				B8166035208F5786009AA27B /* Main.storyboard */,
+				B8166043208F59ED009AA27B /* ColorChangeViewController.swift */,
 				B8166038208F5787009AA27B /* Assets.xcassets */,
 				B816603A208F5787009AA27B /* LaunchScreen.storyboard */,
 				B816603D208F5787009AA27B /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				B8166034208F5786009AA27B /* ViewController.swift in Sources */,
 				B8166032208F5786009AA27B /* AppDelegate.swift in Sources */,
+				B8166044208F59ED009AA27B /* ColorChangeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
